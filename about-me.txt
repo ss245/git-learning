@@ -12,3 +12,8 @@ git diff
 git log --graph --all
 
 I am writing new line to the main branch.
+
+git command for creating new branch:
+git branch <branch name>
+git command for switching branch:
+git checkout <branch name>
