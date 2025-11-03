@@ -1,2 +1,10 @@
 Hi,
 My name is Shivkumar.
+
+commands learned till now:
+
+git init
+git add
+git status
+git commit
+git log
