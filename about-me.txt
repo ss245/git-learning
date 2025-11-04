@@ -19,4 +19,7 @@ git command for switching branch:
 git checkout <branch name>
 
 what's next?
+ Adding more commands;
+ git rebase
+ git merge
 git init, git rebase, git merge
