@@ -17,3 +17,5 @@ git command for creating new branch:
 git branch <branch name>
 git command for switching branch:
 git checkout <branch name>
+
+what's next?
