@@ -23,3 +23,7 @@ what's next?
  git rebase
  git merge
 git init, git rebase, git merge
+
+Add other commands:
+git fetch
+git pull
